@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Amy Saxon!  
 
-Welcome to my GitHub portfolio! I'm a **Computer Science student at Haverford College** (Class of 2026), passionate about solving problems and building impactful solutions through technology. My interests span **mobile app development, information security, user experience design, and the intersection of technology and social good**.  
+Welcome to my GitHub portfolio! I'm a **Computer Science student at Haverford College** (Class of 2026), passionate about solving problems and building impactful solutions through technology.   
 
 ## 🔧 Skills & Interests  
 - **Programming Languages:** Java, Python, R, Kotlin, HTML, CSS, JavaScript.  
